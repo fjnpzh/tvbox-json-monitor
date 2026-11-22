@@ -10,7 +10,7 @@
   "jpeg_eoi_offset": 2399,
   "appended_size": 16730,
   "base64_size": 16720,
-  "etag": "\"6b0158ff-4abb\"",
+  "etag": null,
   "last_modified": "Sat, 21 Nov 2026 08:40:31 GMT",
   "cache_control": "max-age=2592000",
   "content_type": "image/x-ms-bmp"
